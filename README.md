@@ -59,7 +59,7 @@ Feel free to submit contributions! You can help by:
 
 ## 👤 Author
 
-**Surya K.** (GitHub: `Surya‑K‑L`)
+**Surya K.L** (GitHub: `Surya‑K‑L`)
 
 ---
 
